@@ -19,11 +19,11 @@ For each record in the dataset the following is provided:
 
 ### Learnings from the project
 
- This project comprises of exercises and tasks which will made me familiar and gave me an in-depth knowledge of how and when to apply support vector machine algorithm moreover it gave me additional experience to fine tune my model and improve the predicting power even more.
+This project comprises of exercises and tasks which will made me familiar and gave me an in-depth knowledge of how and when to apply support vector machine algorithm moreover it gave me additional experience to fine tune my model and improve the predicting power even more.
 
-- You will learn to explore data insights in depth
-- You will learn to implement Support Vector Machines
-- You will learn to perform feature selection with the help of Support Vector Machines
-- You will learn to find best suitable hyperparameters with the help of grid search providing better understanding of the usage of hyperparmeter tuning.
+- Learned to explore data insights in depth
+- Learned to implement Support Vector Machines
+- Learned perform feature selection with the help of Support Vector Machines
+- Learned to find best suitable hyperparameters with the help of grid search providing better understanding of the usage of hyperparmeter tuning.
 
 
